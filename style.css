@@ -1,0 +1,47 @@
+
+body {
+    display: block;
+    margin: 8px;
+    padding-top: 8px;
+}
+
+#menu
+{
+  padding-right: 5px;
+}
+#texto img
+{
+  padding-top: 40px;
+}
+#cursos b
+{
+  font-weight: bold;
+}
+#eventos img
+{
+  height: 45%;
+  width: 45%;
+  padding-left: 43px;
+  margin-top: 12px;
+}
+
+#eventos b
+{
+  font-weight: bold;
+}
+
+ h6 {
+    display: block;
+    font-size: 0.67em;
+    font-weight: bold;
+}
+
+footer #baixar 
+{
+  padding-top: 40px;
+}
+
+footer #facebook
+{
+  padding-top: 45px;
+}
